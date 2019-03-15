@@ -16,7 +16,7 @@ export default function NotFound() {
       <H1>
         <FormattedMessage {...messages.header} />
       </H1>
-      <H1>Error ADD</H1>
+      <H1>Error 404</H1>
     </article>
   );
 }
